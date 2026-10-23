@@ -1,0 +1,148 @@
+WHITECAPS CRICKET GEAR & EQUIPMENT
+Customer Support Knowledge Base and Demo Product Catalogue
+Currency: Indian Rupees (INR)
+Catalogue status: Fictional demo inventory for testing the customer-support and RAG workflow.
+Important: Product names, models, prices, and stock statuses below are illustrative, not verified real-world retail offers. Do not describe them as actual live inventory.
+
+ABOUT THE SHOP
+Whitecaps Cricket Gear & Equipment is a specialist sports shop focused exclusively on cricket gear and equipment. This customer-support chat helps customers explore cricket products, compare options, find items within a budget, understand equipment, and ask about orders and product care.
+
+DEMO CATALOGUE: CRICKET BATS
+All prices below are fictional sample catalogue prices created for this demo. They are not current manufacturer prices or real shop offers.
+
+BAT-001 | Whitecaps Academy Kashmir Willow Bat | Brand: Whitecaps | Willow: Kashmir willow | Size: SH | Suitable for: practice and developing players | Demo price: ₹1,499 | Demo stock: In stock
+BAT-002 | Whitecaps PowerDrive Kashmir Willow Bat | Brand: Whitecaps | Willow: Kashmir willow | Size: SH | Suitable for: recreational cricket | Demo price: ₹2,499 | Demo stock: In stock
+BAT-003 | SG Campus Kashmir Willow Bat | Brand: SG | Willow: Kashmir willow | Size: SH | Suitable for: training and recreational play | Demo price: ₹3,499 | Demo stock: In stock
+BAT-004 | SS Cricket Club Kashmir Willow Bat | Brand: SS | Willow: Kashmir willow | Size: SH | Suitable for: practice and casual matches | Demo price: ₹3,999 | Demo stock: In stock
+BAT-005 | Whitecaps Select English Willow Bat | Brand: Whitecaps | Willow: English willow | Grade: entry-level demo model | Size: SH | Suitable for: club players seeking an English willow option | Demo price: ₹7,999 | Demo stock: In stock
+BAT-006 | SG Scorer English Willow Bat | Brand: SG | Willow: English willow | Size: SH | Suitable for: club-level cricket | Demo price: ₹10,499 | Demo stock: In stock
+BAT-007 | SS Ton Elite English Willow Bat | Brand: SS | Willow: English willow | Size: SH | Suitable for: club and competitive players | Demo price: ₹11,999 | Demo stock: In stock
+BAT-008 | DSC Condor English Willow Bat | Brand: DSC | Willow: English willow | Size: SH | Suitable for: club-level cricket | Demo price: ₹12,499 | Demo stock: In stock
+BAT-009 | GM Diamond English Willow Bat | Brand: GM | Willow: English willow | Size: SH | Suitable for: players wanting a balanced bat | Demo price: ₹13,499 | Demo stock: In stock
+BAT-010 | Kookaburra Kahuna English Willow Bat | Brand: Kookaburra | Willow: English willow | Size: SH | Suitable for: club-level cricket | Demo price: ₹14,999 | Demo stock: In stock
+BAT-011 | SG Players English Willow Bat | Brand: SG | Willow: English willow | Size: SH | Suitable for: experienced club players | Demo price: ₹16,499 | Demo stock: In stock
+BAT-012 | SS Ton Reserve English Willow Bat | Brand: SS | Willow: English willow | Size: SH | Suitable for: advanced club players | Demo price: ₹18,999 | Demo stock: In stock
+BAT-013 | GM Original English Willow Bat | Brand: GM | Willow: English willow | Size: SH | Suitable for: competitive players | Demo price: ₹22,499 | Demo stock: In stock
+BAT-014 | Kookaburra Pro English Willow Bat | Brand: Kookaburra | Willow: English willow | Size: SH | Suitable for: advanced players | Demo price: ₹27,999 | Demo stock: In stock
+BAT-015 | Whitecaps Junior Kashmir Willow Bat | Brand: Whitecaps | Willow: Kashmir willow | Sizes: 3, 4, 5, 6 | Suitable for: junior players | Demo price: ₹1,199 | Demo stock: In stock
+BAT-016 | SG Junior English Willow Bat | Brand: SG | Willow: English willow | Sizes: 4, 5, 6 | Suitable for: junior players | Demo price: ₹5,999 | Demo stock: In stock
+
+DEMO CATALOGUE: HELMETS
+HEL-001 | Whitecaps Practice Cricket Helmet | Brand: Whitecaps | Sizes: Junior, Small, Medium, Large | Demo price: ₹1,499 | Demo stock: In stock
+HEL-002 | SG Club Cricket Helmet | Brand: SG | Sizes: Small, Medium, Large | Demo price: ₹2,499 | Demo stock: In stock
+HEL-003 | Shrey Match Cricket Helmet | Brand: Shrey | Sizes: Small, Medium, Large | Demo price: ₹4,999 | Demo stock: In stock
+HEL-004 | Masuri Pro Cricket Helmet | Brand: Masuri | Sizes: Medium, Large | Demo price: ₹8,499 | Demo stock: In stock
+Helmet guidance: Fit, comfort, visibility, and manufacturer safety guidance matter. Customers should check the correct size and relevant competition requirements. Never claim safety certification unless verified for the specific product.
+
+DEMO CATALOGUE: COMBO KITS
+KIT-001 | Whitecaps Junior Starter Combo | Includes: junior Kashmir willow bat, batting pads, batting gloves, thigh guard, basic helmet, and kit bag | Suitable for: junior beginners | Demo price: ₹4,999 | Demo stock: In stock
+KIT-002 | Whitecaps Tennis-Ball Cricket Combo | Includes: lightweight practice bat, batting gloves, and duffel bag | Suitable for: tennis-ball cricket practice | Demo price: ₹2,999 | Demo stock: In stock
+KIT-003 | SG Club Player Combo Kit | Includes: English willow bat, batting pads, batting gloves, thigh guard, and kit bag | Suitable for: club players | Demo price: ₹14,999 | Demo stock: In stock
+KIT-004 | SS Match Day Combo Kit | Includes: English willow bat, helmet, batting pads, batting gloves, abdominal guard, and kit bag | Suitable for: adult club players | Demo price: ₹19,999 | Demo stock: In stock
+KIT-005 | Whitecaps Wicketkeeper Combo | Includes: wicket-keeping gloves, wicket-keeping pads, inner gloves, and kit bag | Suitable for: wicketkeepers | Demo price: ₹7,499 | Demo stock: In stock
+KIT-006 | Whitecaps Complete Practice Kit | Includes: Kashmir willow bat, batting pads, batting gloves, helmet, abdominal guard, stumps, and kit bag | Suitable for: recreational practice | Demo price: ₹8,999 | Demo stock: In stock
+
+DEMO CATALOGUE: BATTING AND WICKETKEEPING GEAR
+PAD-001 | SG Club Batting Pads | Adult sizes | Demo price: ₹2,499 | Demo stock: In stock
+PAD-002 | Whitecaps Junior Batting Pads | Junior sizes | Demo price: ₹1,199 | Demo stock: In stock
+GLO-001 | SS Club Batting Gloves | Adult sizes | Demo price: ₹1,499 | Demo stock: In stock
+GLO-002 | Whitecaps Junior Batting Gloves | Junior sizes | Demo price: ₹699 | Demo stock: In stock
+GLO-003 | SG Wicketkeeping Gloves | Adult sizes | Demo price: ₹2,999 | Demo stock: In stock
+PRO-001 | Whitecaps Thigh Guard | Adult sizes | Demo price: ₹599 | Demo stock: In stock
+PRO-002 | Whitecaps Abdominal Guard | Adult sizes | Demo price: ₹299 | Demo stock: In stock
+PRO-003 | SG Arm Guard | Adult sizes | Demo price: ₹799 | Demo stock: In stock
+
+DEMO CATALOGUE: BALLS, BAGS, FOOTWEAR, AND ACCESSORIES
+BAL-001 | Whitecaps Leather Cricket Ball | Red | Demo price: ₹499 | Demo stock: In stock
+BAL-002 | Whitecaps Leather Cricket Ball | White | Demo price: ₹549 | Demo stock: In stock
+BAL-003 | Whitecaps Pink Cricket Ball | Demo price: ₹599 | Demo stock: In stock
+BAL-004 | Whitecaps Soft Practice Ball | Practice use | Demo price: ₹149 | Demo stock: In stock
+BAG-001 | Whitecaps Cricket Kit Bag | Medium | Demo price: ₹1,499 | Demo stock: In stock
+BAG-002 | SS Wheelie Cricket Kit Bag | Large | Demo price: ₹4,499 | Demo stock: In stock
+BAG-003 | Whitecaps Bat Cover | Single bat | Demo price: ₹299 | Demo stock: In stock
+SHO-001 | Whitecaps Cricket Shoes | Non-spiked practice sole | Demo price: ₹2,499 | Demo stock: In stock
+SHO-002 | SG Cricket Spikes | Match footwear | Demo price: ₹3,999 | Demo stock: In stock
+ACC-001 | Whitecaps Bat Grip | Single grip | Demo price: ₹99 | Demo stock: In stock
+ACC-002 | Whitecaps Bat Toe Guard | Bat protection accessory | Demo price: ₹149 | Demo stock: In stock
+ACC-003 | Whitecaps Batting Inner Gloves | Pair | Demo price: ₹199 | Demo stock: In stock
+ACC-004 | Whitecaps Plastic Stumps and Bails | Practice set | Demo price: ₹499 | Demo stock: In stock
+ACC-005 | Whitecaps Training Cones | Set of 10 | Demo price: ₹399 | Demo stock: In stock
+
+PRICE AND CATALOGUE RULES
+- The catalogue above is fictional demo data intended to test retrieval and product filtering.
+- Treat the listed demo prices and demo stock labels as facts within this demo knowledge base only.
+- Do not claim these are verified real-world prices, actual manufacturer listings, or live stock.
+- If asked for products within a budget, filter the catalogue by the listed demo price and explain that the results are from the demo catalogue.
+- If asked for bats between ₹10,000 and ₹15,000, the matching demo bats are:
+  * SG Scorer English Willow Bat — ₹10,499
+  * SS Ton Elite English Willow Bat — ₹11,999
+  * DSC Condor English Willow Bat — ₹12,499
+  * GM Diamond English Willow Bat — ₹13,499
+  * Kookaburra Kahuna English Willow Bat — ₹14,999
+- If asked for English willow bats under ₹15,000, use the English willow entries priced below ₹15,000.
+- If asked to compare brands, compare only the product attributes listed here. Do not invent grain count, weight, edge thickness, sweet-spot position, warranty, or other specifications.
+- Prices are in Indian rupees (₹). No taxes, delivery charges, or discounts are specified.
+
+CHOOSING A CRICKET BAT
+Ask about the player's age or height, playing level, preferred shot style, and whether the bat will be used with leather or tennis balls. Bat size, pickup, balance, weight, handle shape, and willow type affect suitability. A heavier bat is not automatically better; the player should be able to control it comfortably.
+English willow and Kashmir willow are different materials and can vary in price, feel, grain appearance, and performance. Do not promise that one bat will improve performance. Customers should check manufacturer specifications and, where possible, handle the bat before choosing.
+Bat size should be selected according to the player's height, age, and comfort rather than age alone. If unsure, ask for height and age and recommend checking the manufacturer's sizing chart. Do not invent exact sizing measurements when the relevant chart is unavailable.
+
+PROTECTIVE EQUIPMENT
+Correctly fitting helmets, pads, gloves, and other protective equipment can help reduce injury risk. Choose the correct size, follow manufacturer fitting instructions, and replace damaged equipment. Do not modify protective equipment in a way that compromises its function. For equipment that has suffered a significant impact or has visible damage, follow the manufacturer's inspection and replacement guidance.
+
+CRICKET BALLS AND FOOTWEAR
+The appropriate ball depends on format, age group, conditions, and competition rules. Leather balls are commonly used in formal cricket, while softer practice balls may suit training or tennis-ball cricket. Customers should confirm the required ball type with their club, coach, or competition.
+Cricket footwear should suit the playing surface and role. Spiked footwear may suit some grass pitches, while other soles may be better for artificial or indoor surfaces. Check venue rules and manufacturer guidance.
+
+ORDERS, DELIVERY, RETURNS, AND REFUNDS
+The knowledge base does not provide live order records, a real fulfilment system, or verified commercial policies. Do not invent order status, delivery dates, shipping charges, return windows, exchange procedures, refund-processing times, or warranty periods. Ask the customer to confirm the applicable policy with shop support. If a customer asks about an order, request only the order reference needed for support and explain that live order status cannot be checked unless an order-management integration is available.
+
+PRODUCT AVAILABILITY
+The demo catalogue labels items as “Demo stock: In stock” solely for practice queries. This is not live inventory. Do not claim actual availability in a real shop. Explain that stock, size, colour, model, and final price would need confirmation in a production system.
+
+SHOP SCOPE
+Whitecaps Cricket Gear & Equipment focuses exclusively on cricket gear and equipment. It does not specialise in unrelated sports such as football, basketball, tennis, or general fitness equipment. If asked about a non-cricket product, politely explain the cricket-only focus.
+
+CUSTOMER SUPPORT STYLE
+- Be polite, clear, concise, and professional.
+- Focus on cricket gear and equipment.
+- Ask a clarifying question when the product, size, playing format, or customer's needs are unclear.
+- Distinguish demo catalogue facts from real-world claims.
+- Do not fabricate product specifications, prices, stock levels, delivery dates, order status, warranties, or shop policies.
+- If the answer is not available in this knowledge base, say so and suggest checking with shop support.
+- If the question concerns current product pricing, live availability, recent product releases, or external cricket information, the web-search assistant may look for public information. Public web information must not be presented as confirmed shop inventory or official shop policy.
+
+SHOP LOCATION AND OPERATING HOURS
+
+Business name: Whitecaps Cricket Gear & Equipment
+Business type: Specialist cricket gear and equipment shop
+Business address: Not specified in this demo.
+Contact number: Not specified in this demo.
+
+Regular Operating Hours:
+- Monday: 9:00 AM – 9:00 PM
+- Tuesday: 9:00 AM – 9:00 PM
+- Wednesday: 9:00 AM – 9:00 PM
+- Thursday: 9:00 AM – 9:00 PM
+- Friday: 9:00 AM – 9:00 PM
+- Saturday: 9:00 AM – 9:00 PM
+- Sunday: 10:00 AM – 6:00 PM
+
+Public Holidays:
+- Operating hours on public holidays are not specified. Customers should contact the shop to confirm.
+
+CUSTOMER SUPPORT RULES FOR SHOP HOURS
+- Use the operating hours listed in this knowledge base when answering questions about the shop's opening time, closing time, or operating days.
+- Clearly state the applicable day when providing opening and closing times.
+- If asked whether the shop is open now, check the current local time and day against the listed operating hours. Do not assume the shop is open without checking.
+- Do not invent a business address, phone number, holiday schedule, or special opening hours.
+- These operating hours are fictional demo information created to test the RAG workflow. They are not verified real-world business hours.
+
+IMPORTANT DEMO LIMITATIONS
+
+This is fictional sample content created for a customer-support application demonstration. Product names, models, prices, stock statuses, and shop operating hours are illustrative and have not been verified as real-world commercial information.
+
+The knowledge base does not contain a verified business address, contact number, payment methods, shipping arrangements, or actual commercial inventory.
+
+The listed opening hours are fictional demo values intended to test the RAG workflow. Replace all demo information with verified business data before using the application commercially.

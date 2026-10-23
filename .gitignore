@@ -1,0 +1,12 @@
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+output/answers.txt
+output/
+faiss_index/
+.DS_Store
