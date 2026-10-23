@@ -4,7 +4,7 @@ A sequential, three-agent customer-support application built with CrewAI and Str
 
 ## Demo
 
-https://github.com/user-attachments/assets/6ea698e7-2b4a-42b8-87c0-76122925e595
+[Watch the user demo](https://github.com/user-attachments/assets/6ea698e7-2b4a-42b8-87c0-76122925e595)
 
 ## Architecture
 
